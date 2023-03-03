@@ -1,17 +1,18 @@
 <?php
 
-$dano = 520;
-$chance_item = 20000;
-$dano_critico = ($dano * 60)/100;
-$critico =  $chance_item * 2.5;
+$forca = 70;
+$ki = 800;
+$poder = $forca * ki;
 
-if ($dano_critico < 100){
+if ($poder >8000){
 
-echo 'fecha o gume logo seu otario kkkkkkkkkk';
+echo 'NAPPA:QUAL O PODER DE KAKAROTO? <hr>
+';
+echo 'VEGETA: O PODE DE KAKAROTO É MAIS DE 8000!'
 }
 else
 {
-	echo 'é mono kkkkkkkkkk';
+	echo 'VOCÊ É UMA VERGONHA PARA OS SAYAJINS';
 }
 
  
