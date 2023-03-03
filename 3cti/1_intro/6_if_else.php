@@ -7,7 +7,7 @@ $poder = $forca * $ki;
 if ($poder >8000){
 
 echo 'NAPPA:QUAL O PODER DE KAKAROTO? <hr>';
-echo 'VEGETA: O PODE DE KAKAROTO É MAIS DE 8000!'
+echo 'VEGETA: O PODE DE KAKAROTO É MAIS DE 8000!';
 }
 else
 {
