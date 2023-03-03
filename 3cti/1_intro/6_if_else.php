@@ -2,7 +2,7 @@
 
 $forca = 70;
 $ki = 800;
-$poder = $forca * ki;
+$poder = $forca * $ki;
 
 if ($poder >8000){
 
